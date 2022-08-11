@@ -1,9 +1,6 @@
 "# hmm-xo-na-kub" 
 
 
-ขออนุญาตส่งเป็น google ไดฟ์ ได้ไมครับ พอดี git ผมมีปัญหานิดหน่อยอะครับ
-
-
 setupproject
 
 1.โหลด node.js
